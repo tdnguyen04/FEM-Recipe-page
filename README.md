@@ -5,7 +5,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -14,7 +13,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -23,7 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ![](/assets/images/screenshot.jpeg)
 
 ### Links
-- [Live Site URL](https://fem-recipe-page-ten.vercel.app/)
+- <a href="https://fem-recipe-page-ten.vercel.app/" target="_blank"> Live Site URL </a>
 
 ## My process
 
@@ -45,21 +43,8 @@ Also, as part of this project, I am going to come back to refactor the code even
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Add ```hr``` between rows in CSS grid](https://stackoverflow.com/questions/56900389/css-grid-how-to-add-line-between-rows) - This helps me put line between the nutrition table's rows. Also, I realize I could further customize ```<hr>``` if using ```<div>``` instead of horizontal rule.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Frontend Mentor - [@tdnguyen04](https://www.frontendmentor.io/profile/tdnguyen04)
