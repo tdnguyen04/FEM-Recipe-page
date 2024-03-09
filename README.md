@@ -43,7 +43,7 @@ Also, as part of this project, I am going to come back to refactor the code even
 
 ### Useful resources
 
-- [Add ```hr``` between rows in CSS grid](https://stackoverflow.com/questions/56900389/css-grid-how-to-add-line-between-rows) - This helps me put line between the nutrition table's rows. Also, I realize I could further customize ```<hr>``` if using ```<div>``` instead of horizontal rule.
+- [Add line between rows in CSS grid](https://stackoverflow.com/questions/56900389/css-grid-how-to-add-line-between-rows) - This helps me put line between the nutrition table's rows. Also, I realize I could further customize ```<hr>``` if using ```<div>``` instead of horizontal rule.
 
 ## Author
 
