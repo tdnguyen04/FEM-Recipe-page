@@ -1,0 +1,62 @@
+@forward 'globals';
+
+@font-face {
+  font-family: youngSerif;
+  src: url(/assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+
+@font-face {
+  font-family: outfit;
+  src: url(/assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
+body{
+  font-family: outfit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: bisque;
+}
+
+.nutrition-table{
+  display: grid;
+  grid-template-columns: 10px 1fr 1fr;
+  gap: 1em;
+  .row-border{
+    border-top: 2px solid hsla(0, 0%, 50%, 0.099);
+    grid-column: 1/-1;
+  }
+  .nutrition-value{
+    color:hsl(14, 45%, 36%);
+    font-weight: 700;
+  }
+}
+
+.container-box{
+  width: 700px;
+  padding: 2em;
+  margin: 10em;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.main-img{
+  max-width: 100%;
+}
+
+.note-box{
+  padding: 1em;
+  background-color: hsl(330, 100%, 98%);
+  h3{
+    color: hsl(332, 51%, 32%);
+  }
+}
+
+h2{
+  color: hsl(14, 45%, 36%);
+  margin-top: 1em;
+}
+
+.hr{
+  border-top: 2px solid hsla(0, 0%, 50%, 0.099);
+}
